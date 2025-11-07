@@ -1,4 +1,6 @@
-﻿namespace CursoWindowsForms
+# Codigo:Frm_DemonstracaoKey.Designer.cs - completo dias 27, 29 e 31 de Setembro
+
+namespace CursoWindowsForms
 {
     partial class Frm_DemonstracaoKey
     {
@@ -139,4 +141,5 @@
         private System.Windows.Forms.Label Lbl_Upper;
         private System.Windows.Forms.Label Lbl_Lower;
     }
+
 }
